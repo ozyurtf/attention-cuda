@@ -2,7 +2,7 @@
 
 In this project, attention mechanism is implemented in CUDA by utilizing shared memory, coalesced memory, warp shuffle, and tiling. 
 
-![GPU Memory Architecture](figures/gpu-memory-architecture.png)
+<img src="figures/gpu-memory-architecture.png" alt="GPU Memory Architecture" width="300"/>
 
 ### Matrix Multiplication 
 
