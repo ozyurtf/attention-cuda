@@ -4,8 +4,6 @@ In this project, attention mechanism is implemented in CUDA by utilizing shared 
 
 ![GPU Memory Architecture](figures/gpu-memory-architecture.png)
 
-![Attention Mechanism](figures/attention-mechanism.png)
-
 ### Matrix Multiplication 
 
 ![Matrix Multiplication](figures/matmul-tiled.png)
@@ -13,4 +11,8 @@ In this project, attention mechanism is implemented in CUDA by utilizing shared 
 ### Softmax 
 
 ### Transpose 
+
+### Multi-Head Attention Mechanism
+
+![Attention Mechanism](figures/attention-mechanism.png)
 
