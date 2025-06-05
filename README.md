@@ -4,7 +4,11 @@ In this project, attention mechanism is implemented in CUDA by utilizing shared 
 
 ### Matrix Multiplication 
 
-![Matrix Multiplication](figures/matmul-tiled.png)
+<div align="center">
+
+<img src="figures/matmul-tiled.png" alt="Matrix Multiplication" width="700" style="image-rendering: auto;"/>
+
+</div>
 
 ### Softmax 
 
